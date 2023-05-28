@@ -1,6 +1,6 @@
 # DIO-Bootcamp-Angular-Developer-IFOOD
 
-      Desafio DIO - JavaScript - Pokedex
+      Desafio DIO - JavaScript - Json 
 
 O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focado em Angular! Com cursos, desafios de projeto,
 desafios de código e mentorias exclusivas, o Bootcamp Potência Tech Angular Developer - Powered by iFood traz uma experiência
