@@ -1,0 +1,47 @@
+{
+  "title":"Você torceria para o  Brasil ou para Argentina ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Brasil golear", "alias":"A"},
+        {"id": 2, "name":"Argentina golear", "alias":"B"},
+        {"id": 3, "name":"Brasil ganhar de virada", "alias":"A"},
+        {"id": 4, "name":"Argentina ganhar de virada", "alias":"B"},
+        {"id": 5, "name":"Brasil ganhar com Neymar dando SHOW", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual seria mais emocionante ?",
+      "options":[
+        {"id": 1, "name":"Brasil ganhar com gol no acréscimo do segundo tempo", "alias":"A"},
+        {"id": 2, "name":"Brasil ganhando jogando muito, com show e dribles", "alias":"A"},
+        {"id": 3, "name":"Argentina ganhar com despedida do Messi", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao se enfretar ?",
+      "options":[
+        {"id": 1, "name":"Não perder da Argentina", "alias":"A"},
+        {"id": 2, "name":"Não perder do Brasil", "alias":"B"},
+        {"id": 3, "name":"Não tomar goleada da Argentina", "alias":"A"},
+        {"id": 4, "name":"Não tomar goleada do Brasil", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Título para o Brasil", "alias":"A"},
+        {"id": 2, "name":"Título para a Argentina", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria torcedor do BRASIL!",
+    "B": "Você muito provavelmente seria torcedor da ARGENTINA!"
+  }
+}
